@@ -1,3 +1,3 @@
 # glowing-journey
-My new repository
-Pierwszy projekt po module Zaawansowany HTML i CSS
+
+Pierwszy Landing Page w HTML i CSS
